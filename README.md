@@ -29,6 +29,8 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
   
   Em: docker-php, clone esse projeto `git clone https://github.com/lucasframoon/imob.git`
   
+  Renomeie a pasta "imob" para "public"
+  
    OBS: A pasta public deve ficar no mesmo nivel do arquivo docker-compose.yml
    
   Abra no seu editor e use o comando 'docker-compose up' para criar e rodar as imagens docker
