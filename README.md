@@ -39,6 +39,8 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
   
   Para configurar o acesso da base de dados pelo Workbench ou outra ide consulte o arquivo public/app/Db/database.php
   
+  Junto com o projeto há um dump do mysql com alguns dados que utilizei durante os testes
+  
 
 ### 🛠️ Construído com
 
