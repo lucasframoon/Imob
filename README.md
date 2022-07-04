@@ -2,11 +2,11 @@
 
 Aplicação para gerencimento de imoveis e midias.
 
-O que essa aplicação faz até o momento:
+## 📦 O que essa aplicação faz até o momento:
 
-  Imóveis - Cria, Consulta, Edita e Deleta Imoveis
+  Cria, Consulta, Edita e Deleta Imoveis
   
-  Midias - Adiciona Midia em uma pasta local, associa ou não a um imovel. Cria as informações na tabela de mídia e ao excluir exclui os dados e também o arquivo
+  Adiciona arquivos e suas informações, consulta e deleta, podendo estar associados a um imovel ou não.
   
   TODO: Upload do arquivo para S3 AWS e gerenciamento do mesmo.
   
